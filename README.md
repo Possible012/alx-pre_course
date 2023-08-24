@@ -1,1 +1,2 @@
-My first readme
+alx thought us hard things
+
